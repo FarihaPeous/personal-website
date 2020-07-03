@@ -1,0 +1,124 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+#name-highlight{
+    color: rgb(221, 42, 78);
+}
+#modification{
+    margin-top: 10%;
+}
+#modification1{
+    margin-bottom: 10%;
+}
+#modification2{
+    margin-top: 10%;
+}
+
+.half-width{
+    margin: 4%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+   
+}
+.half-width img{
+    width: 550px;
+    margin-top: 0px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(221, 42, 78), tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.top-banner{
+    background-image: url("images/header-bg.png");
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.biography-area{
+    background-image: url("images/biography-bg.png");
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.biography-text{
+    font-size: 40px;
+    font-weight: 800;
+}
+p{
+    font-size: 15px;
+    text-align: justify;
+}
+.latest-work{
+    background-image: url("images/latest-work-bg.png");
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.section-head-one{
+    text-align: center;
+    margin-top: 200px;
+    margin-bottom: 50px;
+}
+.section-head-two{
+    text-align: center;
+    margin-top: 50pxpx;
+    margin-bottom: 10px
+}
+.work-column img{
+    width: 400px;
+    float: left;
+    margin-left: 33.33px;
+}
+.ending{
+    background-image: url("images/footer-bg.png");
+    height: 380px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h4{
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 5px;
+}
+h5{
+    text-align: center;
+    font-weight: 300;
+    margin-left: 10px;
+    margin-top: 0%;
+}
+#quotation{
+    text-align: center;
+    margin-left: 15px;
+}
+.mail-button{
+    background: linear-gradient(180deg,rgb(233, 23, 138),rgb(216, 78, 101));
+    border-radius: 10px;
+    border: 0px;
+    color:aliceblue;
+    padding:20px 150px;
+    margin-left: 450px;
+    text-align: center;
+}
+#button-text{
+    text-align: center;
+    color: aliceblue;
+    font-size: medium;
+}
+footer p{
+    text-align: center;
+}
